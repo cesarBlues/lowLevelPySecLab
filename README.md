@@ -1,5 +1,5 @@
 # lowLevelPySecLab
-🚧 *En progreso público* 🚧  
+🚧 *En progreso* 🚧  
 
 ## Objetivo  
 Aprender seguridad, bajo nivel (C/Rust/ASM), Python y Git, subiendo mis avances paso a paso.  
@@ -16,6 +16,4 @@ Aprender seguridad, bajo nivel (C/Rust/ASM), Python y Git, subiendo mis avances 
 - `/tools/`: Proyectos funcionales.  
 - `/docs/`: Guías y recursos.  
 
-## Últimos logs (2024)  
-- **Feb 20**: Añadido scanner de puertos en Python.  
-- **Feb 25**: Primer exploit en C (stack overflow).  
+## Últimos logs (2025)  
